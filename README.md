@@ -1,6 +1,8 @@
 ## ParkAPI
 
 [![Build Status](https://travis-ci.org/offenesdresden/ParkAPI.svg?branch=master)](https://travis-ci.org/offenesdresden/ParkAPI)
+This api is freely available.
+This api is help to assist the park 
 
 ParkAPI is a project trying to consolidate pages where cities publish the amount of empty spaces on their public parking lots (be it an HTML page, XML data or something else) into a simple to use JSON API. This then serves as a backend for the mobile app ParkenDD ([iOS](https://github.com/kiliankoe/ParkenDD) & [Android](https://github.com/jklmnn/ParkenDD)).
 
